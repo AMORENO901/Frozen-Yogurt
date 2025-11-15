@@ -9,7 +9,7 @@ console.log(amtOfFlav);
 
 //Can you parse the user input into an array of froyo flavors?
 const stringified = JSON.stringify(amtOfFlav);
-//console.log(stringified);
+console.log(stringified);
 //^^made a string out of array, not what I want
 
 //console.log(JSON.parse(amtOfFlav));
